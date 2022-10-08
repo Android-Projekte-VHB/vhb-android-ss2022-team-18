@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="home_fragment">Home</string>
+    <string name="favorites_fragment">Favorites</string>
+    <string name="shopping_list_fragment">Shopping List</string>
+    <string name="timer_fragment">Timer</string>
+    <string name="recipe_search">Search for a recipe</string>
+    <string name="enter_minutes">Enter time</string>
+    <string name="product">Product</string>
+    <string name="amount">Amount</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="advanced_search">Advanced Search</string>
+
+    <string name="time_hint">00:00:00</string>
+    <string name="timer_template">$HOURS:$MINUTES:$SECONDS</string>
+    <string name="enter_time">Enter time</string>
+    <string name="timer_input">00</string>
+    <string name="hour_text">Hours</string>
+    <string name="minute_text">Minutes</string>
+    <string name="second_text">Seconds</string>
+
+    <string name="incorrect_input">Please adjust your input</string>
+    <string name="time_not_set">The time is not valid</string>
+
+    <string name="notification_title">Timer</string>
+    <string name="notification_message_updated">Remaining Time: $TIME</string>
+    <string name="notification_message_done">Time is up</string>
+    <string name="notification_message_stopped">Timer stopped</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="diets">
+        <item>gluten free</item>
+        <item>dairy free</item>
+        <item>vegetarian</item>
+        <item>vegan</item>
+        <item>ketogenic</item>
+    </string-array>
+    <string-array name="meal_type">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>salad</item>
+        <item>breakfast</item>
+        <item>soup</item>
+        <item>fingerfood</item>
+        <item>snack</item>
+        <item>bread</item>
+    </string-array>
+    <string-array name="cuisines">
+        <item>african</item>
+        <item>american</item>
+        <item>caribbean</item>
+        <item>chinese</item>
+        <item>french</item>
+        <item>german</item>
+        <item>greek</item>
+        <item>indian</item>
+        <item>italien</item>
+        <item>japanese</item>
+        <item>korean</item>
+        <item>mediterranean</item>
+        <item>mexican</item>
+        <item>spanish</item>
+        <item>thai</item>
+        <item>vietnamese</item>
+
+    </string-array>
+    <string-array name="intolerances">
+        <item>dairy</item>
+        <item>egg</item>
+        <item>gluten</item>
+        <item>grain</item>
+        <item>geanut</item>
+        <item>seafood</item>
+        <item>sesame</item>
+        <item>soy</item>
+        <item>wheat</item>
+    </string-array>
+</resources>
