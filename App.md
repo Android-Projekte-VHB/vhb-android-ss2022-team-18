@@ -26,16 +26,16 @@ User Interface
 Main Layout mit Bottom-Navigation welches zu verschiedenen Fragments führt: HomeFragment, FavoriteFragment, ShoppingListFragment und TimerFragment.
 Home:
 In diesem Layout ist es möglich nach verschiedenen Rezepten zu Suchen. Unter der Suchleiste werden zufällige Rezepte vorgeschlagen, die man auch auswählen kann, wodurch das Rezepte Layout geöffnet wird. Mit der erweiterten Suche kann man bestimmte Filter anwenden.
-  ![image](https://user-images.githubusercontent.com/86496447/194639269-69fdf2a1-19e7-4cbe-9455-3e8aae148c36.png)
-  ![image](https://user-images.githubusercontent.com/86496447/194639301-2e3dae3e-3aca-4d78-9221-4ded72e0501f.png)
+  ![image](https://user-images.githubusercontent.com/86496447/194708619-196190d7-cd98-4fec-985d-09838e22eeb4.png)
+  ![image](https://user-images.githubusercontent.com/86496447/194708644-58b015ec-cb85-44c2-8f2c-07cf10ae9545.png)
 
 Favorites:
 In diesem Layout werden die verschiedenen Rezepte angezeigt, die man mit einem Herz markiert hat, um sie schnell wiederzufinden und nochmal kochen zu können. Diese werden untereinander aufgelistet mit dazugehörigem Bild und Namen. Durch Klicken kommt man zum Rezept Layout.
-  ![image](https://user-images.githubusercontent.com/86496447/194639322-d142421e-5768-4682-a1ee-8e610911e214.png)
+  ![image](https://user-images.githubusercontent.com/86496447/194708706-1eea3f2e-9e75-4751-b5ce-2a747a10b733.png)
 
 ShoppingList:
 In diesem Layout werden die fehlenden Zutaten in einer Liste angezeigt, die in dem Rezepte Layout ausgewählt wurden, es können aber auch Zutaten manuell eingegeben und zur Einkaufsliste durch einen Button hinzugefügt werden. Hinter den jeweiligen Zutaten ist ein Button, um diese zu entfernen.
-  ![image](https://user-images.githubusercontent.com/86496447/194639350-6deacb92-c7e0-4c4c-beb7-1ef755829ac9.png)
+  ![image](https://user-images.githubusercontent.com/86496447/194708720-c9e567b9-5497-4422-ac4a-0734c338fb12.png)
 
 Timer:
 In diesem Layout ist es möglich einen Timer durch Eingabe der Stunden, Minuten und Sekunden einzustellen. Durch einen Start-Button wird dieser gestartet und der Stopp-Button stoppt diesen. Dieser läuft im Hintergrund und man kann währenddessen in einem anderen Layout sein. Nach Ablauf der Zeit bekommt man eine Benachrichtigung. 
@@ -43,8 +43,7 @@ In diesem Layout ist es möglich einen Timer durch Eingabe der Stunden, Minuten 
 
 Rezept Layout:
 In diesem Layout wird das ausgewählte Rezept angezeigt und die benötigten Informationen wie der Name des Rezepts, ein Bild des fertigen Gerichts, Kalorien, Dauer und Menge, die benötigten Zutaten und die einzelnen Arbeitsschritte. Im rechten oberen Quadranten ist ein Herz-Button zu finden, mit dem man das jeweilige Gericht favorisieren kann. Die einzelnen Zutaten kann man durch einen Button zur Einkaufsliste hinzufügen.
-  ![image](https://user-images.githubusercontent.com/86496447/194639421-a5e48d11-7784-49d7-b856-dff08317f4fe.png)
-  ![image](https://user-images.githubusercontent.com/86496447/194639438-9d851869-eda5-436e-b9e0-7949429afea8.png)
+  ![image](https://user-images.githubusercontent.com/86496447/194708682-ffe894c0-491e-4149-b22c-3376a10e4b5f.png)
 
 
 Software Design
